@@ -1,0 +1,19 @@
+{
+  "name": "Avance International University",
+  "short_name": "AVIU",
+  "description": "NCHE-accredited university in Nabweru, Uganda. Programs, admissions, research.",
+<<<<<<< HEAD
+  "start_url": "/",
+=======
+  "start_url": "/#/",
+>>>>>>> 7eb87b5fa18d7868fd6df0fc89da9b430598886b
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1e1b4b",
+  "theme_color": "#2d1454",
+  "orientation": "any",
+  "icons": [
+    { "src": "/images/aviu-logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/images/aviu-logo-full.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
